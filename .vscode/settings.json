@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "files.encoding": "euckr",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true
+}
